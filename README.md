@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://viktorMost.github.io/rsschool-cv/
